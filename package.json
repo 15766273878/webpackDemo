@@ -38,7 +38,7 @@
     "eslint-loader": "^3.0.3",
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^4.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "node-notifier": "^6.0.0",
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
